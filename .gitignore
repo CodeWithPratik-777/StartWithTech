@@ -13,10 +13,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Build output (optional: ignore if you build on server)
-frontend/build/
-dist/
-
 # OS junk files
 .DS_Store
 Thumbs.db
